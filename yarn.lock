@@ -261,9 +261,8 @@ amazon-cognito-auth-js@^1.1.9:
   version "1.1.9"
   resolved "https://registry.yarnpkg.com/amazon-cognito-auth-js/-/amazon-cognito-auth-js-1.1.9.tgz#f230508aac15bf06da152a39fc426d063a72cfa6"
 
-amazon-cognito-identity-js@2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/amazon-cognito-identity-js/-/amazon-cognito-identity-js-2.0.3.tgz#38fb50f9c509be6d4aba491f8a901d8dd45f3a13"
+"amazon-cognito-identity-js@file:packages/amazon-cognito-identity-js":
+  version "2.0.5"
   dependencies:
     buffer "4.9.1"
     crypto-browserify "1.0.9"
