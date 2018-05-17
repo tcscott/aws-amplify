@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws/aws-amplify.git"
+    "url": "https://github.com/tcscott/aws-amplify.git"
   },
   "license": "See LICENSE",
   "licenses": [
@@ -63,7 +63,7 @@
   "types": "./index.d.ts",
   "dependencies": {
     "buffer": "4.9.1",
-    "crypto-browserify": "3.0.0",
+    "crypto-browserify": "1.0.9",
     "js-cookie": "^2.1.4"
   },
   "devDependencies": {

@@ -1,5 +1,5 @@
 {
-  "name": "aws-amplify",
+  "name": "@tscott/aws-amplify",
   "version": "0.1.30",
   "description": "",
   "scripts": {
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws/aws-amplify.git"
+    "url": "https://github.com/tcscott/aws-amplify.git"
   },
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
