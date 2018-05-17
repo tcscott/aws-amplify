@@ -11,6 +11,8 @@
  * CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions
  * and limitations under the License.
  */
+global.Buffer = global.Buffer || require('buffer').Buffer
+
 Object.defineProperty(exports, "__esModule", { value: true });
 var Analytics_1 = require("./Analytics");
 exports.Analytics = Analytics_1.default;
